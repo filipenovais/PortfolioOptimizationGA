@@ -3,7 +3,7 @@
 ## Personal Project
 
 ### Year
-2024
+2023
 
 ### Overview
 This project provides a robust framework for optimizing and backtesting portfolio allocations using genetic algorithms. Users can download historical stock data from Yahoo Finance, optimize their portfolios based on historical performance, and evaluate the effectiveness of their investment strategies over selected periods. The system allows for detailed configuration, including the selection of optimization methods (minimizing standard deviation or maximizing Sharpe ratio), strategy start and end dates, as well as a historical lookback period for preliminary testing.
